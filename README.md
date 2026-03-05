@@ -5,7 +5,7 @@ Estou cursando o 3º ano do curso técnico de Desenvolvimento de Sistemas na ETE
 </p>
 
 ## 💻 Skills :
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cs,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,php,py,cs,mysql)](https://skillicons.dev)
  
 ## ⚙️ Ferramentas :
 [![Ferramentas](https://skillicons.dev/icons?i=vscode,visualstudio,figma,github)](https://skillicons.dev)
